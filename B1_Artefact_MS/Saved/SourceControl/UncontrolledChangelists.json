@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/comp5282064/Documents/Unreal Projects/B1_Artefact_MS/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/comp5282064/Documents/Unreal Projects/B1_Artefact_MS/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/comp5282064/Documents/Unreal Projects/B1_Artefact_MS/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
+			]
+		}
+	]
+}
